@@ -1,6 +1,6 @@
 # WebTerm 💻
 
-Welcome to WebTerm! This is a simple, browser-based virtual terminal built with vanilla HTML, CSS, and JavaScript. It features an in-memory file system, allowing you to navigate, create directories, and make files just like a real command line. 
+Welcome to WebTerm! This is a simple, browser-based virtual terminal built with HTML, CSS, and JavaScript. It features an in-memory file system, allowing you to navigate, create directories, and make files just like a real command line. 
 
 ## ✨ Features
 * **In-Memory File System**: Simulates a real directory tree that resets whenever you refresh the page.
@@ -23,4 +23,4 @@ You can type `help` in the terminal to see this list at any time:
 ## 💻 Technologies Used
 * **HTML**: Provides the structural layout, including the terminal window, output area, and input line.
 * **CSS**: Handles the visual styling, creating the centered, fixed-height terminal window.
-* **Vanilla JavaScript**: Powers the command logic and uses a `FileNode` class to build the underlying tree data structure.
+* **JavaScript**: Powers the command logic and uses a `FileNode` class to build the underlying tree data structure.
