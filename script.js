@@ -1,4 +1,3 @@
-// 1. Data Structure: The File System Tree
 class FileNode {
     constructor(name, isDirectory = false, parent = null) {
         this.name = name;
