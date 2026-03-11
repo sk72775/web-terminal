@@ -1,4 +1,4 @@
-# WebTerm 💻
+# WebTerm 
 
 Welcome to WebTerm! This is a simple, browser-based virtual terminal built with HTML, CSS, and JavaScript. It features an in-memory file system, allowing you to navigate, create directories, and make files just like a real command line. 
 
